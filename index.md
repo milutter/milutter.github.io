@@ -87,7 +87,7 @@ Conference on Robot Learning (CoRL)
 * **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2019). 
 A Differentiable Newton Euler Algorithm for Multi-body Model Learning,
 ICML Workshop on Inductive Biases, Invariances and Generalization in RL
-[[**Arxiv soon**]]()
+[[**Arxiv**]](https://arxiv.org/pdf/2010.09802.pdf)
 
 * **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2019). 
 Differentiable Physics Models for Real-world Offline Model-based Reinforcement Learning,
