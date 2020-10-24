@@ -84,12 +84,12 @@ Conference on Robot Learning (CoRL)
 
 ### Differentiable Newton-Euler-Algorithms
 **Paper:**
-* **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2019). 
+* **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2020). 
 A Differentiable Newton Euler Algorithm for Multi-body Model Learning,
 ICML Workshop on Inductive Biases, Invariances and Generalization in RL
 [[**Arxiv**]](https://arxiv.org/pdf/2010.09802.pdf)
 
-* **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2019). 
+* **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2020). 
 Differentiable Physics Models for Real-world Offline Model-based Reinforcement Learning,
 [[**Arxiv soon**]]() [[**Videos**]](https://sites.google.com/view/ball-in-a-cup-in-4-minutes/)
 
