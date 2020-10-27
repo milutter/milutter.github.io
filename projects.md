@@ -54,4 +54,4 @@ Differentiable Physics Models for Real-world Offline Model-based Reinforcement L
 **Paper:**
 * Ploeger, K.\*; **Lutter, M.**\*; Peters, J. (2020). 
 High Acceleration Reinforcement Learning for Real-World Juggling with Binary Rewards, 
-Conference on Robot Learning (CoRL). [[**Arxiv soon**]]() [[**Videos**]](https://sites.google.com/view/jugglingbot)
+Conference on Robot Learning (CoRL). [[**Arxiv**]](https://arxiv.org/abs/2010.13483) [[**Videos**]](https://sites.google.com/view/jugglingbot)
