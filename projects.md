@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-
-# Projects <a name="projects"></a>
 ... Under construction, text, images and videos coming soon ...
 
 I work on inductive biases for robot learning. Within this field I focus on whether inductive biases are preferable for 

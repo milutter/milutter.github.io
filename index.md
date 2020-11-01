@@ -1,11 +1,8 @@
 ---
 layout: page
-title: ""
+title: "About Me"
 permalink: /
 ---
-
-
-# About Me <a name="about-me"></a>
 
 <p style='text-align: left;'>
 <b>Contact:</b> mail(at)mlutter.eu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -49,6 +46,6 @@ academic excellence.
 # News
 * **(11. Dec 2020)** - Organizing NeurIPS WS on [Inductive Biases and Physically Structured Learning](https://inductive-biases.github.io/)
 * **(25. Oct 2020)** - Invited Talk IROS WS on [Trends and Advances in ML and Automated Reasoning](http://www.iros-ar2020.lissi.fr/doku.php/start)
-* **(14. Oct 2020)** - Robot Juggling paper accepted at CoRL 2020 [Link follows soon]
+* **(14. Oct 2020)** - Robot Juggling paper accepted at CoRL 2020 [[Arxiv]](https://arxiv.org/abs/2010.13483)
 * **(01. Oct 2020)** - Homepage is finally live :)
 
