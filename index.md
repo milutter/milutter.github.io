@@ -3,17 +3,25 @@ layout: page
 title: "About Me"
 permalink: /
 ---
-
-<p style='text-align: left;'>
-<b>Contact:</b> mail(at)mlutter.eu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<b>Twitter:</b> <a href="https://twitter.com/_mlutter">_mlutter</a> 
-</p>
-
-<p style='text-align: justify;'>
-<b>Research Interests:</b> Model-Based Reinforcement Learning, Interpretable and Plausible Models, Robot Control, Deep Learning,
-High-Speed Robotics, Robust Control, Dexterous Manipulation
-</p>
-
+<br>
+ <table style="width:100%">
+  <tr>
+    <td><img src="images/Michael_Lutter_circle.png" alt="drawing" width="350"/></td>
+    <td style='text-align: left;;vertical-align: text-top;padding-left:3em'>
+    <b><span style="font-size:12mm">Michael Lutter</span></b><br><br>
+    <b>Contact:</b> mail(at)mlutter.eu <br>
+    <b>Twitter:</b> <a href="https://twitter.com/_mlutter">_mlutter</a> <br><br>
+    <br> 
+    <b>Research Interests:</b> 
+    <br>Model-Based Reinforcement Learning, 
+    <br>Interpretable and Plausible Models, 
+    <br>High-Speed Robot Control,
+    <br>Dexterous Manipulation,
+    <br>Robust Control
+    </td>
+  </tr>
+</table> 
+<br>
 <p style='text-align: justify;'> 
 <b>Bio:</b> Michael Lutter is a Ph.D. student with <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> 
 at the <a href="https://www.ias.informatik.tu-darmstadt.de/">Institute for Intelligent 
@@ -40,12 +48,14 @@ to his studies, Michael worked for ThyssenKrupp, Siemens and General Electric an
 academic excellence.
 </p>
 
-
-
-
 # News
-* **(11. Dec 2020)** - Organizing NeurIPS WS on [Inductive Biases and Physically Structured Learning](https://inductive-biases.github.io/)
-* **(25. Oct 2020)** - Invited Talk IROS WS on [Trends and Advances in ML and Automated Reasoning](http://www.iros-ar2020.lissi.fr/doku.php/start)
-* **(14. Oct 2020)** - Robot Juggling paper accepted at CoRL 2020 [[Arxiv]](https://arxiv.org/abs/2010.13483)
-* **(01. Oct 2020)** - Homepage is finally live :)
+* <span style="font-family:'Courier New', monospace"><b>(11.Dec 20)</b></span> - Organizing NeurIPS WS on <a href="https://inductive-biases.github.io/">Inductive Biases and Physically Structured Learning</a>
+* <span style="font-family:'Courier New', monospace"><b>(03.Nov 20)</b></span> - New Arxiv Preprint on Model-Learning for RL <a href="https://arxiv.org/abs/2011.01734">[Arxiv]</a>
+* <span style="font-family:'Courier New', monospace"><b>(25.Oct 20)</b></span> - Invited Talk IROS WS on <a href="http://www.iros-ar2020.lissi.fr/doku.php/start">Trends and Advances in ML and Automated Reasoning</a>
+* <span style="font-family:'Courier New', monospace"><b>(14.Oct 20)</b></span> - Robot Juggling paper accepted at CoRL 2020  <a href="https://arxiv.org/abs/2010.13483">[Arxiv]</a>
+* <span style="font-family:'Courier New', monospace"><b>(01.Oct 20)</b></span> - My Homepage is finally live :)
+
+
+
+
 

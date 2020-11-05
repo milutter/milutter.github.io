@@ -23,12 +23,12 @@ A full list of all publications can be found at [Google Scholar](https://scholar
 * **Lutter, M.**; Ritter, C.; Peters, J. (2019). 
 Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning, 
 International Conference on Learning Representations (ICLR).
-[[**Arxiv**]](https://arxiv.org/pdf/1907.04490.pdf)
+[[**Arxiv**]](https://arxiv.org/abs/1907.04490)
 
 * **Lutter, M.**; Peters, J. (2019). 
 Deep Lagrangian Networks for end-to-end learning of energy-based control for under-actuated systems, 
 International Conference on Intelligent Robots and Systems (IROS).
-[[**Arxiv**]](https://arxiv.org/pdf/1907.04489.pdf) [[**Code**]](https://git.ias.informatik.tu-darmstadt.de/lutter/deep_lagrangian_networks)
+[[**Arxiv**]](https://arxiv.org/abs/1907.04489) [[**Code**]](https://git.ias.informatik.tu-darmstadt.de/lutter/deep_lagrangian_networks)
 
 ### Continuous Time Optimal Feedback Control
 **Paper:**
@@ -42,11 +42,11 @@ Conference on Robot Learning (CoRL)
 * **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2020). 
 A Differentiable Newton Euler Algorithm for Multi-body Model Learning,
 ICML Workshop on Inductive Biases, Invariances and Generalization in RL
-[[**Arxiv**]](https://arxiv.org/pdf/2010.09802.pdf)
+[[**Arxiv**]](https://arxiv.org/abs/2010.09802)
 
 * **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2020). 
 Differentiable Physics Models for Real-world Offline Model-based Reinforcement Learning,
-[[**Arxiv soon**]]() [[**Videos**]](https://sites.google.com/view/ball-in-a-cup-in-4-minutes/)
+[[**Arxiv**]](https://arxiv.org/abs/2011.01734) [[**Videos**]](https://sites.google.com/view/ball-in-a-cup-in-4-minutes/)
 
 ### Robot Juggling 
 **Paper:**
