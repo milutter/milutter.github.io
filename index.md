@@ -27,7 +27,7 @@ permalink: /
 at the <a href="https://www.ias.informatik.tu-darmstadt.de/">Institute for Intelligent 
 Autonomous Systems (IAS) TU Darmstadt</a> since July 2017. During his Ph.D., he researched inductive biases for robot
 learning. Michael also worked with ABB Corporate Research on a joint research project
-to evaluate the application of robot learning to industrial applications. He completed a research internship at NVIDIA Research
+to evaluate the application of robot learning to industrial applications. He completed a research internship at DeepMind, NVIDIA Research
 and received multiple awards for his research including the 
 <a href="https://ki50.de/ki-newcomer/">AI newcomer award (2019)</a>  
 of the German computer science foundation and  was 
@@ -49,8 +49,11 @@ academic excellence.
 </p>
 
 # News
+* <span style="font-family:'Courier New', monospace"><b>(10.May 21)</b></span> - Accepted RSS Paper Robust Value Iteration for Continuous Control <a href="https://arxiv.org/pdf/2105.12189.pdf">[Arxiv]</a>
+* <span style="font-family:'Courier New', monospace"><b>(08.May 21)</b></span> - Accepted ICML Paper Value Iteration in continuous space and time <a href="https://arxiv.org/pdf/2105.04682.pdf">[Arxiv]</a>
+* <span style="font-family:'Courier New', monospace"><b>(01.Apr 21)</b></span> - Accepted ICRA Paper Model-Learning for offline RL <a href="https://arxiv.org/abs/2011.01734">[Arxiv]</a>
+* <span style="font-family:'Courier New', monospace"><b>(14.Jan 21)</b></span> - Started my Research Internship with the DeepMind Robotics Team
 * <span style="font-family:'Courier New', monospace"><b>(11.Dec 20)</b></span> - Organizing NeurIPS WS on <a href="https://inductive-biases.github.io/">Inductive Biases and Physically Structured Learning</a>
-* <span style="font-family:'Courier New', monospace"><b>(03.Nov 20)</b></span> - New Arxiv Preprint on Model-Learning for RL <a href="https://arxiv.org/abs/2011.01734">[Arxiv]</a>
 * <span style="font-family:'Courier New', monospace"><b>(25.Oct 20)</b></span> - Invited Talk IROS WS on <a href="http://www.iros-ar2020.lissi.fr/doku.php/start">Trends and Advances in ML and Automated Reasoning</a>
 * <span style="font-family:'Courier New', monospace"><b>(14.Oct 20)</b></span> - Robot Juggling paper accepted at CoRL 2020  <a href="https://arxiv.org/abs/2010.13483">[Arxiv]</a>
 * <span style="font-family:'Courier New', monospace"><b>(01.Oct 20)</b></span> - My Homepage is finally live :)
