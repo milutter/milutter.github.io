@@ -16,7 +16,7 @@ A full list of all publications can be found at [Google Scholar](https://scholar
 
 
 ### Deep Lagrangian Networks (DeLaN)
-<img src="images/Intro_DeLaN.pdf" alt="DeLaN" width="300" height="300" style="float:left">
+<embed src="images/Intro_DeLaN.pdf" alt="DeLaN" width="300" height="300" style="float:left">
 Deep Lagrangian Networks (DeLaN) combines deep networks with Lagrangian mechanics to learn dynamics 
 models that conserve energy. DeLaN uses two deep networks to represent the potential and kinetic energy of the system. 
 These networks are combined to approximate the Lagrangian. The forward and inverse model of the system can be computed 
