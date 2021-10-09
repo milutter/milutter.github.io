@@ -3,19 +3,20 @@ layout: page
 title: "Projects"
 permalink: /projects/
 ---
-
+<p style='text-align: justify;'>
 In my research, I focus in inductive biases in machine learning for robotics and control. 
 Within this field I focus on: 
-
+</p>
 1. Are inductive biases are beneficial for robot learning algorithms?
 2. How can inductive biases be incorporated in generic deep learning algorithms?
-
+<p style='text-align: justify;'>
 Within my research, we showed that one can derive robot learning algorithms that cover the complete spectrum between
 classical engineering and end-to-end deep learning. The inductive biases improve the performance compared to black-box
 deep learning. We showed that one can also derive inductive biases for deep networks to improve the learned dynamics
 models and policies. Below, I introduce a few research projects in more detail. 
-A full list of all publications can be found at [Google Scholar](https://scholar.google.com/citations?user=Wvdo5bYAAAAJ&hl=en)
+</p>
 
+A full list of all publications can be found at [Google Scholar](https://scholar.google.com/citations?user=Wvdo5bYAAAAJ&hl=en)
 
 ### Deep Lagrangian Networks (DeLaN)
 <img src="../images/DeLaN.png" alt="Computational Graph" style="float:left;margin:10px 20px" width="250" height="250"/>
