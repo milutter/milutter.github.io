@@ -70,16 +70,22 @@ uniform domain randomization.</p>
 Continuous-Time Fitted Value Iteration for Robust Policies, 
 Arxiv Preprint Arxiv:2110.01954
 [[**Arxiv**]](https://arxiv.org/abs/2110.01954)
+[[**Videos**]](https://sites.google.com/view/rfvi)
+[[**Code**]](https://github.com/milutter/value_iteration)
  
 * **Lutter, M.**; Mannor, S.; Peters, J.; Fox, D.; Garg, A. (2021). 
 Robust Value Iteration for Continuous Control Tasks,
 Robotics: Science and Systems (RSS)
-[[**Arxiv**]](https://arxiv.org/abs/2105.12189)
+[[**Arxiv**]](https://arxiv.org/abs/2105.12189) 
+[[**Videos**]](https://sites.google.com/view/rfvi)
+[[**Code**]](https://github.com/milutter/value_iteration)
 
 * **Lutter, M.**; Mannor, S.; Peters, J.; Fox, D.; Garg, A. (2021).
 Value Iteration in Continuous Actions, States and Time,
 International Conference on Machine Learning (ICML) 
 [[**Arxiv**]](https://arxiv.org/abs/2105.04682)
+[[**Videos**]](https://sites.google.com/view/value-iteration)
+[[**Code**]](https://github.com/milutter/value_iteration)
 
 * **Lutter, M.**; Belousov, B.; Listmann, K.; Clever, D.; Peters, J. (2019). 
 HJB Optimal Feedback Control with Deep Differential Value Functions and Action Constraints, 
@@ -103,14 +109,14 @@ incorporated structure.
 
 **Paper:**
 * **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2020). 
-A Differentiable Newton Euler Algorithm for Multi-body Model Learning,
-ICML Workshop on Inductive Biases, Invariances and Generalization in RL
-[[**Arxiv**]](https://arxiv.org/abs/2010.09802)
-
-* **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2020). 
 Differentiable Physics Models for Real-world Offline Model-based Reinforcement Learning,
 International Conference on Robotics and Automation (ICRA)
 [[**Arxiv**]](https://arxiv.org/abs/2011.01734) [[**Videos**]](https://sites.google.com/view/ball-in-a-cup-in-4-minutes/)
+
+* **Lutter, M.**\*; Silberbauer, J.\*; Watson, J.; Peters, J. (2020). 
+A Differentiable Newton Euler Algorithm for Multi-body Model Learning,
+ICML Workshop on Inductive Biases, Invariances and Generalization in RL
+[[**Arxiv**]](https://arxiv.org/abs/2010.09802)
 
 ### Robot Juggling 
 <img src="../images/Juggling.png" alt="WAM Juggling" style="float:left;margin:10px 40px" width="250" height="250"/>
