@@ -23,9 +23,9 @@ permalink: /
 </table> 
 <br>
 <p style='text-align: justify;'> 
-<b>Bio:</b> Michael Lutter is a Ph.D. student with <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> 
+<b>Bio:</b> Michael Lutter completed his Ph.D. supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> 
 at the <a href="https://www.ias.informatik.tu-darmstadt.de/">Institute for Intelligent 
-Autonomous Systems (IAS) TU Darmstadt</a> since July 2017. During his Ph.D., he researched inductive biases for robot
+Autonomous Systems (IAS) TU Darmstadt</a> in November 2021. During his Ph.D., he researched inductive biases for robot
 learning. Michael also worked with ABB Corporate Research on a joint research project
 to evaluate the application of robot learning to industrial applications. He completed a research internship at DeepMind, NVIDIA Research
 and received multiple awards for his research including the 
@@ -49,6 +49,8 @@ academic excellence.
 </p>
 
 # News
+* <span style="font-family:'Courier New', monospace"><b>(19.Nov 21)</b></span> - Defended my Ph.D. on Robot Learning:tada::robot: <a href="https://tuprints.ulb.tu-darmstadt.de/20048/1/Phd_Thesis_Michael_Lutter.pdf">[Thesis]</a>
+* <span style="font-family:'Courier New', monospace"><b>(29.Sep 21)</b></span> - New Pre-print on learning dynamics models for model-predictice control <a href="https://arxiv.org/pdf/2109.14311.pdf">[Arxiv]</a>
 * <span style="font-family:'Courier New', monospace"><b>(10.May 21)</b></span> - Accepted RSS Paper Robust Value Iteration for Continuous Control <a href="https://arxiv.org/pdf/2105.12189.pdf">[Arxiv]</a>
 * <span style="font-family:'Courier New', monospace"><b>(08.May 21)</b></span> - Accepted ICML Paper Value Iteration in continuous space and time <a href="https://arxiv.org/pdf/2105.04682.pdf">[Arxiv]</a>
 * <span style="font-family:'Courier New', monospace"><b>(01.Apr 21)</b></span> - Accepted ICRA Paper Model-Learning for offline RL <a href="https://arxiv.org/abs/2011.01734">[Arxiv]</a>
