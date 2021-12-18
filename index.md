@@ -49,7 +49,7 @@ academic excellence.
 </p>
 
 # News
-* <span style="font-family:'Courier New', monospace"><b>(19.Nov 21)</b></span> - Defended my Ph.D. on Robot Learning :tada::robot::brain: <a href="https://tuprints.ulb.tu-darmstadt.de/20048/1/Phd_Thesis_Michael_Lutter.pdf">[Thesis]</a>
+* <span style="font-family:'Courier New', monospace"><b>(19.Nov 21)</b></span> - Defended my Ph.D. on Robot Learning :mortar_board: :tada: :robot: <a href="https://tuprints.ulb.tu-darmstadt.de/20048/1/Phd_Thesis_Michael_Lutter.pdf">[Thesis]</a>
 * <span style="font-family:'Courier New', monospace"><b>(29.Sep 21)</b></span> - New pre-print on learning dynamics models for MPC <a href="https://arxiv.org/pdf/2109.14311.pdf">[Arxiv]</a>
 * <span style="font-family:'Courier New', monospace"><b>(10.May 21)</b></span> - Accepted RSS Paper Robust Value Iteration for Continuous Control <a href="https://arxiv.org/pdf/2105.12189.pdf">[Arxiv]</a>
 * <span style="font-family:'Courier New', monospace"><b>(08.May 21)</b></span> - Accepted ICML Paper Value Iteration in continuous space and time <a href="https://arxiv.org/pdf/2105.04682.pdf">[Arxiv]</a>
