@@ -23,7 +23,8 @@ permalink: /
 </table> 
 <br>
 <p style='text-align: justify;'> 
-<b>Bio:</b> Michael Lutter completed his Ph.D. supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> 
+<b>Bio:</b> Michael Lutter is a research scientist at Boston Dynamics. Within the Atlas team, he works on applying
+reinforcement learning to legged locomotions. Prior, he completed his Ph.D. supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> 
 at the <a href="https://www.ias.informatik.tu-darmstadt.de/">Institute for Intelligent 
 Autonomous Systems (IAS) TU Darmstadt</a> in November 2021. During his Ph.D., he researched inductive biases for robot
 learning. Michael also worked with ABB Corporate Research on a joint research project
@@ -35,7 +36,7 @@ of the German computer science foundation and  was
 </p>
 
 <p style='text-align: justify;'>
-Prior to this Michael held a researcher position at the Technical University of Munich (TUM) for bio-inspired learning 
+From 2016 to 2017, Michael held a researcher position at the Technical University of Munich (TUM) for bio-inspired learning 
 for robotics. During this time he worked for the Neurorobotics subproject of the 
 <a href="https://www.humanbrainproject.eu/en/">Human Brain Project</a>, a European H2020 FET flagship project. In 
 addition, he taught the classes "Deep Learning for Autonomous Systems” and  “Fundamentals of Computer Science for 
@@ -49,6 +50,7 @@ academic excellence.
 </p>
 
 # News
+* <span style="font-family:'Courier New', monospace"><b>(23.May 22)</b></span> - Joined the Boston Dynamics Atlas team to work on RL for locomotion</a>
 * <span style="font-family:'Courier New', monospace"><b>(19.Nov 21)</b></span> - Defended my Ph.D. on Robot Learning :mortar_board: :tada: :robot: <a href="https://tuprints.ulb.tu-darmstadt.de/20048/1/Phd_Thesis_Michael_Lutter.pdf">[Thesis]</a>
 * <span style="font-family:'Courier New', monospace"><b>(29.Sep 21)</b></span> - New pre-print on learning dynamics models for MPC <a href="https://arxiv.org/pdf/2109.14311.pdf">[Arxiv]</a>
 * <span style="font-family:'Courier New', monospace"><b>(10.May 21)</b></span> - Accepted RSS Paper Robust Value Iteration for Continuous Control <a href="https://arxiv.org/pdf/2105.12189.pdf">[Arxiv]</a>
