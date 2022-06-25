@@ -8,10 +8,10 @@ permalink: /
   <tr>
     <td><img src="images/Michael_Lutter_circle.png" alt="drawing" width="350"/></td>
     <td style='text-align: left;;vertical-align: text-top;padding-left:3em'>
-    <b><span style="font-size:12mm">Michael Lutter</span></b><br><br>
+    <b><span style="font-size:12mm">Michael Lutter</span></b><br>
+    <b><span style="font-size:4mm">Research Scientist @ Boston Dynamics</span></b><br><br>
     <b>Contact:</b> mail(at)mlutter.eu <br>
     <b>Twitter:</b> <a href="https://twitter.com/_mlutter">_mlutter</a> <br><br>
-    <br> 
     <b>Research Interests:</b> 
     <br>Model-Based Reinforcement Learning, 
     <br>Interpretable and Plausible Models, 
