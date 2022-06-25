@@ -13,10 +13,10 @@ permalink: /
     <b>Contact:</b> mail(at)mlutter.eu <br>
     <b>Twitter:</b> <a href="https://twitter.com/_mlutter">_mlutter</a> <br><br>
     <b>Research Interests:</b> 
-    <br>Model-Based Reinforcement Learning, 
-    <br>Interpretable and Plausible Models, 
+    <br>Learning Dynamics Models,
     <br>High-Speed Robot Control,
-    <br>Dexterous Manipulation,
+    <br>Reinforcement Learning, 
+    <br>Legged Locomotion
     <br>Robust Control
     </td>
   </tr>
