@@ -23,7 +23,7 @@ permalink: /
 </table> 
 <br>
 <p style='text-align: justify;'> 
-<b>Bio:</b> Michael Lutter is a research scientist at Boston Dynamics. Within the Atlas team, he works on applying
+<b>Bio:</b> Michael Lutter is a research scientist at <a href="https://www.bostondynamics.com/">Boston Dynamics</a>. Within the Atlas team, he works on applying
 reinforcement learning to legged locomotions. Prior, he completed his Ph.D. supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> 
 at the <a href="https://www.ias.informatik.tu-darmstadt.de/">Institute for Intelligent 
 Autonomous Systems (IAS) TU Darmstadt</a> in November 2021. During his Ph.D., he researched inductive biases for robot
