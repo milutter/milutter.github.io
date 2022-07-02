@@ -49,7 +49,7 @@ academic excellence.
 </p>
 
 <br>
-<b><span style="font-size:6mm">News</span></b>
+<b><span style="font-size:6mm">News</span></b><br>
 
 * <span style="font-family:'Courier New', monospace"><b>(29.Jun 22)</b></span> - Received the George Giralt Award for best robotics Ph.D. thesis in Europe
 * <span style="font-family:'Courier New', monospace"><b>(23.May 22)</b></span> - Joined the Boston Dynamics Atlas team to work on RL for locomotion
