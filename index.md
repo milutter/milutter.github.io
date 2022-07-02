@@ -30,7 +30,7 @@ supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters
 in November 2021. During his Ph.D., he researched inductive biases for robot learning. Michael also worked with ABB 
 Corporate Research on a joint research project to evaluate the application of robot learning to industrial applications.
 He completed a research internship at DeepMind, NVIDIA Research and received multiple awards for his research including the 
-<a href="https://www.eu-robotics.net/robotics_forum/awards/georges-giralt-phd-award/index.html">George Giralt Ph.D. Award (2022)</a>
+<a href="https://en.wikipedia.org/wiki/Georges_Giralt_PhD_Award">George Giralt Ph.D. Award (2022)</a>
 for the best robotics Ph.D. thesis in Europe and the <a href="https://ki50.de/ki-newcomer/">AI newcomer award (2019)</a>  
 of the German computer science foundation.
 
