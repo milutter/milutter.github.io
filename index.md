@@ -48,8 +48,10 @@ to his studies, Michael worked for ThyssenKrupp, Siemens and General Electric an
 academic excellence.
 </p>
 
+<br>
+<b><span style="font-size:6mm">News</span></b>
 
-# News
+* <span style="font-family:'Courier New', monospace"><b>(29.Jun 22)</b></span> - Received the George Giralt Award for best robotics Ph.D. thesis in Europe
 * <span style="font-family:'Courier New', monospace"><b>(23.May 22)</b></span> - Joined the Boston Dynamics Atlas team to work on RL for locomotion
 * <span style="font-family:'Courier New', monospace"><b>(19.Nov 21)</b></span> - Defended my Ph.D. on Robot Learning :mortar_board: :tada: :robot: <a href="https://tuprints.ulb.tu-darmstadt.de/20048/1/Phd_Thesis_Michael_Lutter.pdf">[Thesis]</a>
 * <span style="font-family:'Courier New', monospace"><b>(29.Sep 21)</b></span> - New pre-print on learning dynamics models for MPC <a href="https://arxiv.org/pdf/2109.14311.pdf">[Arxiv]</a>
