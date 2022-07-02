@@ -49,20 +49,22 @@ to his studies, Michael worked for ThyssenKrupp, Siemens and General Electric an
 academic excellence.
 </p>
 
-# News
-* <span style="font-family:'Courier New', monospace"><b>(29.Jun 22)</b></span> - Received the George Giralt Award for best robotics Ph.D. thesis in Europe
-* <span style="font-family:'Courier New', monospace"><b>(23.May 22)</b></span> - Joined the Boston Dynamics Atlas team to work on RL for locomotion
-* <span style="font-family:'Courier New', monospace"><b>(19.Nov 21)</b></span> - Defended my Ph.D. on Robot Learning :mortar_board: :tada: :robot: <a href="https://tuprints.ulb.tu-darmstadt.de/20048/1/Phd_Thesis_Michael_Lutter.pdf">[Thesis]</a>
-* <span style="font-family:'Courier New', monospace"><b>(29.Sep 21)</b></span> - New pre-print on learning dynamics models for MPC <a href="https://arxiv.org/pdf/2109.14311.pdf">[Arxiv]</a>
-* <span style="font-family:'Courier New', monospace"><b>(10.May 21)</b></span> - Accepted RSS Paper Robust Value Iteration for Continuous Control <a href="https://arxiv.org/pdf/2105.12189.pdf">[Arxiv]</a>
-* <span style="font-family:'Courier New', monospace"><b>(08.May 21)</b></span> - Accepted ICML Paper Value Iteration in continuous space and time <a href="https://arxiv.org/pdf/2105.04682.pdf">[Arxiv]</a>
-* <span style="font-family:'Courier New', monospace"><b>(01.Apr 21)</b></span> - Accepted ICRA Paper Model-Learning for offline RL <a href="https://arxiv.org/abs/2011.01734">[Arxiv]</a>
-* <span style="font-family:'Courier New', monospace"><b>(14.Jan 21)</b></span> - Started my Research Internship with the DeepMind Robotics Team
-* <span style="font-family:'Courier New', monospace"><b>(11.Dec 20)</b></span> - Organizing NeurIPS WS on <a href="https://inductive-biases.github.io/">Inductive Biases and Physically Structured Learning</a>
-* <span style="font-family:'Courier New', monospace"><b>(25.Oct 20)</b></span> - Invited Talk IROS WS on <a href="http://www.iros-ar2020.lissi.fr/doku.php/start">Trends and Advances in ML and Automated Reasoning</a>
-* <span style="font-family:'Courier New', monospace"><b>(14.Oct 20)</b></span> - Robot Juggling paper accepted at CoRL 2020  <a href="https://arxiv.org/abs/2010.13483">[Arxiv]</a>
-* <span style="font-family:'Courier New', monospace"><b>(01.Oct 20)</b></span> - My Homepage is finally live :)
-
+<br>
+<b><span style="font-size:6mm">News</span></b>
+ <ul>
+<li><span style="font-family:'Courier New', monospace"><b>(29.Jun 22)</b></span> - Received the George Giralt Award for best robotics Ph.D. thesis in Europe</li>
+<li><span style="font-family:'Courier New', monospace"><b>(23.May 22)</b></span> - Joined the Boston Dynamics Atlas team to work on RL for locomotion</li>
+<li><span style="font-family:'Courier New', monospace"><b>(19.Nov 21)</b></span> - Defended my Ph.D. on Robot Learning :mortar_board: :tada: :robot: <a href="https://tuprints.ulb.tu-darmstadt.de/20048/1/Phd_Thesis_Michael_Lutter.pdf">[Thesis]</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(29.Sep 21)</b></span> - New pre-print on learning dynamics models for MPC <a href="https://arxiv.org/pdf/2109.14311.pdf">[Arxiv]</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(10.May 21)</b></span> - Accepted RSS Paper Robust Value Iteration for Continuous Control <a href="https://arxiv.org/pdf/2105.12189.pdf">[Arxiv]</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(08.May 21)</b></span> - Accepted ICML Paper Value Iteration in continuous space and time <a href="https://arxiv.org/pdf/2105.04682.pdf">[Arxiv]</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(01.Apr 21)</b></span> - Accepted ICRA Paper Model-Learning for offline RL <a href="https://arxiv.org/abs/2011.01734">[Arxiv]</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(14.Jan 21)</b></span> - Started my Research Internship with the DeepMind Robotics Team</li>
+<li><span style="font-family:'Courier New', monospace"><b>(11.Dec 20)</b></span> - Organizing NeurIPS WS on <a href="https://inductive-biases.github.io/">Inductive Biases and Physically Structured Learning</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(25.Oct 20)</b></span> - Invited Talk IROS WS on <a href="http://www.iros-ar2020.lissi.fr/doku.php/start">Trends and Advances in ML and Automated Reasoning</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(14.Oct 20)</b></span> - Robot Juggling paper accepted at CoRL 2020  <a href="https://arxiv.org/abs/2010.13483">[Arxiv]</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(01.Oct 20)</b></span> - My Homepage is finally live :)</li>
+</ul> 
 
 
 
