@@ -23,6 +23,7 @@ permalink: /
 </table> 
 <br>
 <p style='text-align: justify;'> 
+
 <b>Bio:</b> Michael Lutter is a research scientist at <a href="https://www.bostondynamics.com/">Boston Dynamics</a>. 
 Within the Atlas team, he works on applying reinforcement learning to legged locomotions. Prior, he completed his Ph.D.
 supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> at the 
@@ -48,9 +49,7 @@ to his studies, Michael worked for ThyssenKrupp, Siemens and General Electric an
 academic excellence.
 </p>
 
-<br>
-<b><span style="font-size:6mm">News</span></b><br>
-
+# News
 * <span style="font-family:'Courier New', monospace"><b>(29.Jun 22)</b></span> - Received the George Giralt Award for best robotics Ph.D. thesis in Europe
 * <span style="font-family:'Courier New', monospace"><b>(23.May 22)</b></span> - Joined the Boston Dynamics Atlas team to work on RL for locomotion
 * <span style="font-family:'Courier New', monospace"><b>(19.Nov 21)</b></span> - Defended my Ph.D. on Robot Learning :mortar_board: :tada: :robot: <a href="https://tuprints.ulb.tu-darmstadt.de/20048/1/Phd_Thesis_Michael_Lutter.pdf">[Thesis]</a>
