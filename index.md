@@ -52,7 +52,7 @@ academic excellence.
 <br>
 <b><span style="font-size:6mm">News</span></b>
  <ul>
- <li><span style="font-family:'Courier New', monospace"><b>(19.Apr 23)</b></span> - Accepted IJRR Paper on Deep Lagrangian Networks <a href="https://journals.sagepub.com/doi/10.1177/02783649231169492">[IJRR]</a><a href="https://arxiv.org/pdf/2110.01894.pdf">[Arxiv]</a></li>
+ <li><span style="font-family:'Courier New', monospace"><b>(19.Apr 23)</b></span> - Accepted IJRR Journal Paper on Deep Lagrangian Networks <a href="https://journals.sagepub.com/doi/10.1177/02783649231169492">[IJRR]</a><a href="https://arxiv.org/pdf/2110.01894.pdf">[Arxiv]</a></li>
 <li><span style="font-family:'Courier New', monospace"><b>(22.Jan 23)</b></span> - Accepted ICLR Paper Diminishing Return of Value Expansion <a href="https://arxiv.org/abs/2303.03955">[Arxiv]</a></li>
 <li><span style="font-family:'Courier New', monospace"><b>(14.Dec 22)</b></span> - Invited Talk CoRL WS on <a href="https://sites.google.com/view/corl-2022-inductive-bias-ws/home">Inductive Bias in Robot Learning</a></li>
 <li><span style="font-family:'Courier New', monospace"><b>(19.Oct 22)</b></span> - Accepted TPAMI Journal Paper on Value Iteration <a href="https://ieeexplore.ieee.org/document/9925102">[IEEE]</a><a href="https://arxiv.org/pdf/2110.01954.pdf">[Arxiv]</a></li>
