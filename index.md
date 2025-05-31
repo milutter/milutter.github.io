@@ -9,7 +9,8 @@ permalink: /
     <td><img src="images/Michael_Lutter_circle.png" alt="drawing" width="350"/></td>
     <td style='text-align: left;;vertical-align: text-top;padding-left:3em'>
     <b><span style="font-size:12mm">Michael Lutter</span></b><br>
-    <b><span style="font-size:4mm">Research Scientist @ Boston Dynamics</span></b><br><br>
+    <b><span style="font-size:4mm">Technical Manager & Research Scientist</span></b><br>
+    <b><span style="font-size:4mm">at Boston Dynamics</span></b><br><br>
     <b>Contact:</b> mail(at)mlutter.eu <br>
     <b>Twitter:</b> <a href="https://twitter.com/_mlutter">_mlutter</a> <br><br>
     <b>Research Interests:</b> 
@@ -24,16 +25,16 @@ permalink: /
 <br>
 <p style='text-align: justify;'> 
 
-<b>Bio:</b> Michael Lutter is a research scientist at <a href="https://www.bostondynamics.com/">Boston Dynamics</a>. 
-Within the Atlas team, he works on applying reinforcement learning to legged locomotions. Prior, he completed his Ph.D.
+<b>Bio:</b> Michael Lutter is a technical manager and research scientist at <a href="https://www.bostondynamics.com/">Boston Dynamics</a>. 
+Within the Atlas team, his team works on applying reinforcement learning to dexterous manipulation with humanoid robots.
+Previously he worked on reactive quadruped locomotion over slippery terrain with Spot. He completed his Ph.D.
 supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> at the 
 <a href="https://www.ias.informatik.tu-darmstadt.de/">Institute for Intelligent Autonomous Systems (IAS) TU Darmstadt</a>
 in November 2021. During his Ph.D., he researched inductive biases for robot learning. Michael also worked with ABB 
 Corporate Research on a joint research project to evaluate the application of robot learning to industrial applications.
 He completed a research internship at DeepMind, NVIDIA Research and received multiple awards for his research including the 
 <a href="https://en.wikipedia.org/wiki/Georges_Giralt_PhD_Award">George Giralt Ph.D. Award (2022)</a>
-for the best robotics Ph.D. thesis in Europe and the <a href="https://ki50.de/ki-newcomer/">AI newcomer award (2019)</a>  
-of the German computer science foundation.
+for the best robotics Ph.D. thesis in Europe and the <a href="https://ki50.de/ki-newcomer/">AI newcomer award (2019)</a> of the German computer science foundation.
 
 <p style='text-align: justify;'>
 From 2016 to 2017, Michael held a researcher position at the Technical University of Munich (TUM) for bio-inspired learning 
@@ -52,6 +53,13 @@ academic excellence.
 <br>
 <b><span style="font-size:6mm">News</span></b>
  <ul>
+<li><span style="font-family:'Courier New', monospace"><b>(07.Feb 25)</b></span> - Invited Talk at the <a href="https://www.mitaimlconference.com/">MIT Sloan AI Conference</a> on RL for robotics</li>
+<li><span style="font-family:'Courier New', monospace"><b>(29.Dec 24)</b></span> - New preprint on the diminishing returns of value expansion <a href="https://arxiv.org/abs/2412.20537">[Arxiv]</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(09.Nov 24)</b></span> - Invited Talk at CoRL WS on <a href="https://www.locolearn.robot-learning.net/">Learning for Locomotion</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(15.Jul 24)</b></span> - Invited Talk at RSS WS on <a href="https://earl.robot-learning.net/">Embodiement-Aware Robot Learning</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(15.Jul 24)</b></span> - Invited Talk at RSS WS on <a href="https://sites.google.com/alora.tech/priors4robots24">Structural Priors for Robot Learning</a></li>
+<li><span style="font-family:'Courier New', monospace"><b>(15.Jul 24)</b></span> - Invited Talk at the <a href="https://frobio.wordpress.com/">Freiburg Robotics and Biology</a> conference</li>
+<li><span style="font-family:'Courier New', monospace"><b>(01.Oct 23)</b></span> - Invited Talk at IROS WS on <a href="rlconform-workshop.github.io">Reinforcement Learning</a></li>
  <li><span style="font-family:'Courier New', monospace"><b>(01.Aug 23)</b></span> - Published my Ph.D. thesis in the Springer STAR series  <a href="https://link.springer.com/book/10.1007/978-3-031-37832-4">[Springer]</a></li>
  <li><span style="font-family:'Courier New', monospace"><b>(19.Apr 23)</b></span> - Accepted IJRR Journal Paper on Deep Lagrangian Networks <a href="https://journals.sagepub.com/doi/10.1177/02783649231169492">[IJRR]</a><a href="https://arxiv.org/pdf/2110.01894.pdf">[Arxiv]</a></li>
 <li><span style="font-family:'Courier New', monospace"><b>(22.Jan 23)</b></span> - Accepted ICLR Paper Diminishing Return of Value Expansion <a href="https://arxiv.org/abs/2303.03955">[Arxiv]</a></li>
