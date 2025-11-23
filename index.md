@@ -11,9 +11,10 @@ permalink: /
     <b><span style="font-size:12mm">Michael Lutter</span></b><br>
     <b><span style="font-size:4mm">Research Scientist & Technical Lead</span></b><br>
     <b><span style="font-size:4mm">at Boston Dynamics</span></b><br><br>
-    <b>Contact:</b><br>mail(at)mlutter.eu |
+    <b>Contact:</b><br>mail(at)mlutter.eu <br>
     <a href="https://www.linkedin.com/in/michaellutter/">LinkedIn</a> | 
-    <a href="https://twitter.com/_mlutter">Twitter</a> <br><br>
+    <a href="https://twitter.com/_mlutter">Twitter</a> |
+    <a href="https://scholar.google.com/citations?user=Wvdo5bYAAAAJ&hl=en">Google Scholar</a><br><br>
     <b>Sections:</b><br>
     <a href="#research">Research</a> |
     <a href="#bio">Bio</a> |
