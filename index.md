@@ -9,49 +9,86 @@ permalink: /
     <td><img src="images/Michael_Lutter_circle.png" alt="drawing" width="350"/></td>
     <td style='text-align: left;;vertical-align: text-top;padding-left:3em'>
     <b><span style="font-size:12mm">Michael Lutter</span></b><br>
-    <b><span style="font-size:4mm">Technical Manager & Research Scientist</span></b><br>
+    <b><span style="font-size:4mm">Research Scientist & Technical Lead</span></b><br>
     <b><span style="font-size:4mm">at Boston Dynamics</span></b><br><br>
     <b>Contact:</b> mail(at)mlutter.eu <br>
     <b>Twitter:</b> <a href="https://twitter.com/_mlutter">_mlutter</a> <br><br>
     <b>Research Interests:</b> 
-    <br>Learning Dynamics Models,
-    <br>High-Speed Robot Control,
-    <br>Reinforcement Learning, 
-    <br>Legged Locomotion
-    <br>Robust Control
+    <br>Dexterous Manipulation
+    <br>Reinforcement Learning 
+    <br>Large-Scale Simulation
     </td>
   </tr>
 </table> 
 <br>
 <p style='text-align: justify;'> 
 
-<b>Bio:</b> Michael Lutter is a technical manager and research scientist at <a href="https://www.bostondynamics.com/">Boston Dynamics</a>. 
-Within the Atlas team, his team works on applying reinforcement learning to dexterous manipulation with humanoid robots.
-Previously he worked on reactive quadruped locomotion over slippery terrain with Spot. He completed his Ph.D.
+
+<b><span style="font-size:5mm">Biography:</span></b><br>
+Michael leads the Atlas Dexterous Manipulation team at 
+<a href="https://www.bostondynamics.com/">Boston Dynamics</a>. 
+This team works on developing a dexterous manipulation policy for humanoids with reinforcement learning and 
+purely synthetic data. Previously he worked on learning reactive quadruped locomotion over slippery terrain 
+with Spot using Reinforcement Learning.
+
+Before Boston Dynamics, Michael completed his Ph.D.
 supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> at the 
-<a href="https://www.ias.informatik.tu-darmstadt.de/">Institute for Intelligent Autonomous Systems (IAS) TU Darmstadt</a>
-in November 2021. During his Ph.D., he researched inductive biases for robot learning. Michael also worked with ABB 
-Corporate Research on a joint research project to evaluate the application of robot learning to industrial applications.
-He completed a research internship at DeepMind, NVIDIA Research and received multiple awards for his research including the 
+<a href="https://www.ias.informatik.tu-darmstadt.de/">TU Darmstadt</a>
+in November 2021. His research focused on inductive biases for robot learning.
+He completed a research internship at Google DeepMind, NVIDIA Research and received multiple awards including the 
 <a href="https://en.wikipedia.org/wiki/Georges_Giralt_PhD_Award">George Giralt Ph.D. Award (2022)</a>
-for the best robotics Ph.D. thesis in Europe and the <a href="https://ki50.de/ki-newcomer/">AI newcomer award (2019)</a> of the German computer science foundation.
+for the best robotics Ph.D. thesis in Europe and the <a href="https://ki50.de/ki-newcomer/">AI newcomer award (2019)</a> 
+of the German computer science foundation.
 
 <p style='text-align: justify;'>
-From 2016 to 2017, Michael held a researcher position at the Technical University of Munich (TUM) for bio-inspired learning 
-for robotics. During this time he worked for the Neurorobotics subproject of the 
-<a href="https://www.humanbrainproject.eu/en/">Human Brain Project</a>, a European H2020 FET flagship project. In 
-addition, he taught the classes "Deep Learning for Autonomous Systems” and  “Fundamentals of Computer Science for 
-Neuroengineering” within the <a href="http://www.msne.ei.tum.de/en/home/">Elite Master Programm Neuroengineering</a> 
-and participated in teaching <a href="https://www.thinkmakestart.com/">Think. Make. Start.</a>, a two-week prototyping course. 
-His educational background covers a Bachelors in Engineering Management from University of Duisburg Essen and a Masters 
-in Electrical Engineering from the Technical University of Munich. During his undergraduate studies he also spent one 
-semester at the Massachusetts Institute of Technology studying electrical engineering and computer science. In addition 
-to his studies, Michael worked for ThyssenKrupp, Siemens and General Electric and received multiple scholarships for 
-academic excellence.
+Michael completed a Bachelors in Engineering Management at 
+<a href="https://www.uni-due.de/en/">University of Duisburg Essen</a> and a Masters 
+in Electrical Engineering at <a href="https://www.tum.de/">TU Munich</a>. 
+During his undergraduate studies he spent one semester abroad at the 
+<a href="https://www.mit.edu/"> Massachusetts Institute of Technology</a> 
+studying electrical engineering and computer science. Within his studies, Michael received 
+multiple scholarships for academic excellence and ranked among the top three students 
+within his graduation year.
 </p>
 
 <br>
-<b><span style="font-size:6mm">News</span></b>
+<b><span style="font-size:5mm">Boston Dynamics</span></b>
+<li><span style="font-family:'Courier New', monospace"><b>02/25-&nbsp&nbsp&nbsp&nbsp&nbsp</b></span> - Technical Manager of Atlas RL Manipulation Team</li>
+<li><span style="font-family:'Courier New', monospace"><b>03/24-02/25</b></span> - Tech Lead for Reinforcement Learning</li>
+<li><span style="font-family:'Courier New', monospace"><b>05/22-02/25</b></span> - Senior Staff Research Scientist
+
+<br><b>Dexterous Manipulation</b>
+
+Solving dexterous manipulation with behavioral cloning is challenging as demonstrations are 
+rarely optimal for such tasks. To leverage sub-optimal demonstrations, I use reinforcement learning and 
+simulation to improve these demonstrations and train vision-based manipulation policies. 
+I am excited to show that simulation enables scaling robot data and that sim-2-real for manipulation 
+can be as successful as for whole-body control.
+
+<br>Besides leading this project, I am deeply involved in the day to day technical work within this project. 
+I have specifically developed the reinforcement learning training infrastructure, debugged the physics simulation 
+and trained policies for insertion & extraction tasks. In addition, I was part of the BD & NVIDIA 
+collaboration on object grasping <a href="https://www.youtube.com/watch?v=dFObux6mfTc">[video]</a> 
+<a href="https://developer.nvidia.com/blog/r2d2-adapting-dexterous-robots-with-nvidia-research-workflows-and-models">[blog]</a>.
+
+<br><b>Quadruped Locomotion</b>
+
+As one of the first Reinforcement Learning hires at Boston Dynamics, I worked on learning quadruped locomotion on 
+challenging slippery terrain. This initial prototype was so convincing that we shipped a reinforcement learning 
+policy to thousands of customer robots. 
+Nowadays, reinforcement learning is the core technology for whole-body control at Boston Dynamics.  
+
+<br>Within this project, I lead the development of a policy that can traverse slippery terrain where the existing
+model-based controller struggled. I trained the policies using sim-2-real reinforcement learning and 
+deployed these policies to Spot. This work was presented at multiple conference workshops including 
+RSS, CoRL and IROS. In addition, I contributed to the reinforcement learning and 
+physics simulation infrastructure. I also worked on the Spot controller selection policy that got integrated into the 
+Spot release <a href="https://bostondynamics.com/blog/starting-on-the-right-foot-with-reinforcement-learning/">[blog]</a>
+and consulted on the Spot performance for America got Talent performance 
+<a href="https://www.youtube.com/watch?v=LMPxtcEgtds&t=14s">[video]</a>.
+
+<br>
+<b><span style="font-size:5mm">News</span></b>
  <ul>
 <li><span style="font-family:'Courier New', monospace"><b>(07.Feb 25)</b></span> - Invited Talk at the <a href="https://www.mitaimlconference.com/">MIT Sloan AI Conference</a> on RL for robotics</li>
 <li><span style="font-family:'Courier New', monospace"><b>(29.Dec 24)</b></span> - New preprint on the diminishing returns of value expansion <a href="https://arxiv.org/abs/2412.20537">[Arxiv]</a></li>
