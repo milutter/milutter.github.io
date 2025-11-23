@@ -28,17 +28,17 @@ permalink: /
 Michael leads the Atlas Dexterous Manipulation team at 
 <a href="https://www.bostondynamics.com/">Boston Dynamics</a>. 
 This team works on developing a dexterous manipulation policy for humanoids with reinforcement learning and 
-purely synthetic data. Previously he worked on learning reactive quadruped locomotion over slippery terrain 
+synthetic data. Previously he worked on learning reactive quadruped locomotion over slippery terrain 
 with Spot using Reinforcement Learning.
 
 Before Boston Dynamics, Michael completed his Ph.D.
-supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> at the 
-<a href="https://www.ias.informatik.tu-darmstadt.de/">TU Darmstadt</a>
-in November 2021. His research focused on inductive biases for robot learning.
+supervised by <a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters">Jan Peters</a> at 
+<a href="https://www.ias.informatik.tu-darmstadt.de/">TU Darmstadt</a>. His research focused on inductive biases for robot learning.
 He completed a research internship at Google DeepMind, NVIDIA Research and received multiple awards including the 
 <a href="https://en.wikipedia.org/wiki/Georges_Giralt_PhD_Award">George Giralt Ph.D. Award (2022)</a>
 for the best robotics Ph.D. thesis in Europe and the <a href="https://ki50.de/ki-newcomer/">AI newcomer award (2019)</a> 
-of the German computer science foundation.
+of the German computer science foundation. In addition, his my Ph.D. thesis was published as a book within the 
+<a href="https://link.springer.com/book/10.1007/978-3-031-37832-4">Springer STAR series</a>.
 
 <p style='text-align: justify;'>
 Michael completed a Bachelors in Engineering Management at 
@@ -84,7 +84,7 @@ deployed these policies to Spot. This work was presented at multiple conference 
 RSS, CoRL and IROS. In addition, I contributed to the reinforcement learning and 
 physics simulation infrastructure. I also worked on the Spot controller selection policy that got integrated into the 
 Spot release <a href="https://bostondynamics.com/blog/starting-on-the-right-foot-with-reinforcement-learning/">[blog]</a>
-and consulted on the Spot performance for America got Talent performance 
+and consulted on the 2025 Spot performance on America got Talent
 <a href="https://www.youtube.com/watch?v=LMPxtcEgtds&t=14s">[video]</a>.
 
 <br>
