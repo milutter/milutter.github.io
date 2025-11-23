@@ -33,7 +33,7 @@ for reliable real-world deployments. Current methods are often not applicable to
 
 <br><br><b>Reinforcement Learning:</b><br>
 I am excited to use reinforcement learning to reduce the reliance on real-world 
-demonstrations. Reinforcement learning requires less human demonstrations and
+demonstrations. RL requires less human demonstrations and
 works with sub-optimal demonstrations.
 
 <br><br><b>Large-Scale Physics Simulation:</b><br>
