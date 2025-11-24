@@ -33,16 +33,15 @@ I am excited to work on contact-rich and dexterous manipulation tasks that are e
 for reliable real-world deployments. Current methods are often not applicable to such tasks.
 
 <br><br><b>Reinforcement Learning:</b><br>
-I am excited to use reinforcement learning to reduce the reliance on real-world 
-demonstrations. RL requires less human demonstrations and
-works with sub-optimal demonstrations.
+I use reinforcement learning to reduce the reliance on real-world demonstrations. 
+RL requires less human demonstrations and works with sub-optimal demonstrations.
 
 <br><br><b>Large-Scale Physics Simulation:</b><br>
-I am excited to leverage large-scale physics simulation to scale robot data. 
-Only synthetic data allows us to truly scale data in an cost effective way for humanoid robots.
+I leverage large-scale physics simulation to scale robot data. 
+Only synthetic data allows us to truly scale data for humanoid robots in an cost effective way.
 
 <br><br><b>Sim-to-real for Manipulation:</b><br>
-I am excited to prove that sim-to-real can work for dexterous manipulation. 
+I am driven to prove that sim-to-real can work for dexterous manipulation. 
 This approach became the norm for whole-body control in recent years and 
 I think the same is possible for manipulation.
 </p>
@@ -52,7 +51,7 @@ I think the same is possible for manipulation.
 I lead the Atlas Dexterous Manipulation team at 
 <a href="https://www.bostondynamics.com/">Boston Dynamics</a>. 
 This team works on developing vision-based dexterous manipulation policies for humanoids with reinforcement learning and 
-synthetic data. Previously I worked on learning reactive quadruped locomotion over slippery terrain 
+synthetic data. Previously, I worked on learning reactive quadruped locomotion over slippery terrain 
 with Spot using reinforcement learning.</p>
 
 <p style='text-align: justify;'>
